@@ -1,4 +1,4 @@
-# Modified WALKSAT Algorithm for solving satisfiability(SAT) problems
+# Modified WALKSAT Algorithm for solving satisfiability(SAT) problem
 
 - This code implements WALKSAT algorithm for solving SAT problems.
 - Instead of just using random assignments, it uses uniform probabilty to flip least false-clause-creating "v" variables in the model.
